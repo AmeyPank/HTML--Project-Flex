@@ -1,0 +1,23 @@
+.headpara{
+    left: 20px;
+    width: 170px;
+    height: 70px;
+    margin-top: 150px;
+    margin-left: 10px;
+
+    
+}
+.headpara h1{
+    font-family: Cormorant Garamond;
+    width: 400px;
+    margin-left: 25px;
+}
+.headpara p{
+    font-family: Cormorant Garamond;
+    font-size: 20px;
+    font-weight: 800;
+    width: 720px;
+    height: 40px;
+    margin: 30px;
+    text-align: justify;
+}

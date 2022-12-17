@@ -1,0 +1,23 @@
+/* .imag1{
+    margin-left: 1000px;
+    box-sizing: border-box;
+    position: relative;
+    width: 400px;
+    height: 400px;
+    bottom: 160px;
+} */
+.firstimage{
+
+    display: inline-block;
+}
+
+.imag1{ 
+    width: 400px;
+    height: 400px;
+    margin-left: 1000px
+   
+}
+.imag1:hover {
+opacity: 0.5;
+transition: .9s;
+}
